@@ -1,0 +1,71 @@
+div.card{
+    position: absolute;
+    top: 1%;
+    left: 2%;
+    background: transparent;
+    border: none;
+    
+    }
+    p{
+        font-size: 1vw;
+        margin-bottom: 0;
+    }
+    h1{
+        font-size: 3vw;
+        margin-bottom: 0;
+    }
+    a{
+        font-size: 1vw;
+    }
+    section{
+        height: 75vh;
+        width: 80vw;
+        margin-top: 3%;
+        margin-left: 10%;
+    }
+     
+    #div1{
+        height:100%;
+        width: 39%;
+        border: solid;
+        border-color: peachpuff;
+        position: relative;
+        float: left;
+        background-image: url(assets/Best\ Pieces.jpg);
+        background-size: cover;
+        }
+        #div2{
+        height:49%;
+        width: 59%;
+        border: solid;
+        border-color: black;
+        position: relative;
+        float: right;
+        background-image: url(assets/Chairs.webp);
+        background-size: cover;
+
+        }
+        #div3{
+        height:49%;
+        width: 29%;
+        border: solid;
+        position: relative;
+        float: right;
+        margin-left: 1%;
+        margin-top: 1%;
+        background-image: url(assets/mod.webp);
+        background-size: cover;
+
+        }
+        #div4{
+        height:49%;
+        width: 29%;
+        border: solid;
+        border-color: #ff922b;
+        position: relative;
+        float: right;
+        margin-top: 1%;
+        background-image: url(assets/trad.webp);
+        background-size: cover;
+
+        }
